@@ -1,0 +1,52 @@
+.back2{
+	background:
+	url("../assets/images/comp.jpg") center no-repeat;
+	background-size: cover;
+	max-width: 100%;
+	padding-bottom: 20%;
+	
+}
+
+.square1 {
+
+	background: #f23005;
+	color: #ffffff;
+	text-align:center;
+	box-sizing: border-box;
+    padding: 30px;
+	
+}
+
+
+
+.square2{
+	text-align:center;
+	background: #f23005;
+	color: #ffffff;
+	box-sizing: border-box;
+    padding: 35px;
+	padding-left: 16px;
+
+}
+
+.text__about{
+	color:#ffffff;
+	font-size: 13.98px;
+}
+
+.text__readme{
+	color:#ffffff;
+	font-size: 90%;
+}
+
+.conteiner2{
+	max-width: 100%;
+	color: #ffffff;
+	text-align: end;
+	padding-right: 50%;
+	padding-left: 3%;
+	font-size: medium;
+	
+	
+}
+

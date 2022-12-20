@@ -1,0 +1,112 @@
+/* Header (1 block */
+.header {
+	max-width: 100%;
+}
+
+
+
+/* Nav */
+.nav {
+	font-size: 12px;
+	text-transform: uppercase;
+}	
+
+.nav__link{
+	color: #ffffff;
+	text-decoration: none;
+	display:inline-block;
+	margin:6px;
+	transition: color .2s linear;
+}
+
+.nav__link:hover{
+	color:#d13311;
+	text-decoration: underline #d13311;
+}
+
+
+
+/* Conteiner */
+.conteinerX{
+	max-width: 100%;
+	color: #ffffff;
+	text-align: end;
+	padding-left: 8%;
+	padding-right: 35%;
+	
+}
+
+.conteinerY{
+	max-width: 100%;
+	color: #ffffff;
+	text-align: end;
+	padding-left: 8%;
+	padding-right: 35%;
+	padding-bottom: 10%;
+	
+}
+
+/* intro */
+.intro {
+	max-width: 100%;
+	margin-top: 20%;
+	line-height: 2%;
+}
+.intro__title{
+	font-size: 36px;
+	padding-bottom: 5%;
+}
+
+.intro__title2 {
+	color: #f23005;
+	font-size: 80.23px;
+	padding-right: 2%;
+}
+.intro__title3{	
+	font-size: 80.23px;
+	color:#ffffff;
+}
+.intro__title4{
+	font-size: 14px;
+	line-height: 130%;
+}
+
+.back{
+	background:
+	url("../assets/images/intro.jpg") center no-repeat;
+	background-size: cover;
+	max-width: 100%;
+}
+
+.intro__title{
+	color: #ffffff;
+}
+
+@media screen and (max-width: 1200px) {
+	.intro__title{
+		font-size: 22px;
+	}
+	
+}
+
+
+@media screen and (max-width: 880px) {
+	.intro__title{
+		font-size: 12px;
+	}
+	
+}
+
+@media screen and (max-width: 1200px) {
+	.intro__title2, .intro__title3{
+		font-size: 50px;
+	}
+	
+}
+
+@media screen and (max-width: 880px) {
+	.intro__title2, .intro__title3{
+		font-size: 35px;
+	}
+	
+}

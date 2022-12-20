@@ -1,0 +1,23 @@
+.block4{
+	background:
+	url("../assets/images/guitar.jpg") center no-repeat;
+	background-size: cover;
+}
+
+.block__4__intro1{
+	text-align: end;
+	font-size: 18px;
+	color: #ffffff;
+	margin-right:50%;
+	margin-top: 0px;
+	margin-left: 5%;
+	padding-top: 10%;
+}
+
+.block__4__intro2{
+	text-align: end;
+	font-size: 12px;
+	color: #ffffff;
+	margin-right:50% ;
+	margin-left: 10%;
+}

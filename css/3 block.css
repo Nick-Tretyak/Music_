@@ -1,0 +1,31 @@
+.conteiner3{
+	max-width: 100%;
+	background: #f23005 ;
+	font-size: 63.94px;
+	display: flex;
+	color: #ffffff;
+	justify-content: space-between;
+	padding-left: 20%;
+	padding-right: 20%;
+	margin-top: 7%;
+}
+.red__box {
+	padding: 2%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	cursor: pointer;
+}
+
+
+.red__box:hover{
+	background-color: #c42400;
+	cursor: pointer;
+  }
+
+  .red__box__text {
+	font-size: 15.98px;
+	text-align: center;
+	padding-top: -2%;
+	line-height: 0%;
+	cursor: pointer;
+  }
